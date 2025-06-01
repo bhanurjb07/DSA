@@ -13,7 +13,7 @@ vector<int>twoSum(vector<int>& arr, int target){
 }
 int main(){
     vector<int> arr = {1, 2, 3, 4, 5};
-    int n=5;
-    vector<int> result = twoSum(arr,n);
+    int nn=5;
+    vector<int> result = twoSum(arr,nn);
     cout<<result[0]<<" "<<result[1];
 }
